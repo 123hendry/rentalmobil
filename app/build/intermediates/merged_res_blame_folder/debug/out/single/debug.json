@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\layout_activity_sewa.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_sewa.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_ic_date.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\ic_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\layout_activity_main_owner.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_main_owner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\anim_anim_tv.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\anim\\anim_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-ldpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-ldpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-xxhdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-xxhdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-anydpi-v24_bg_home_wave.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-anydpi-v24\\bg_home_wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_ertiga.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\ertiga.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_ic_mobil_home.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\ic_mobil_home.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\layout_activity_penyewa.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_penyewa.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-mdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-mdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_xenia.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\xenia.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_owner.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\owner.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-xhdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-xhdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_pregio.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\pregio.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_avanza.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\avanza.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-xxhdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-xxhdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-ldpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-ldpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\layout_activity_detail_mobil.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_detail_mobil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-hdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-hdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_penumpang.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\penumpang.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-xhdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-xhdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_background_item.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\background_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\layout_activity_mutli_user.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_mutli_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-xxxhdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-xxxhdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\layout-w1240dp_activity_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout-w1240dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.azhar.rentalmobil.app-merged_res-20:/layout_activity_sewa.xml.flat",
+        "source": "com.azhar.rentalmobil.app-main-22:/layout/activity_sewa.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_xpander.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\xpander.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-anydpi-v24_bg_home_curve.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-anydpi-v24\\bg_home_curve.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_apv.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\apv.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_elf.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\elf.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\layout_activity_beranda_l.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_beranda_l.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\layout-w936dp_activity_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout-w936dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-xxxhdpi_bg_home_wave.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-xxxhdpi\\bg_home_wave.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_back.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_alphard.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\alphard.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_innova.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\innova.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\layout_activity_detail_penyewa.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_detail_penyewa.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-hdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-hdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\layout_activity_mobil.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_mobil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable_background_textview.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\drawable\\background_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\drawable-mdpi_bg_home_curve.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-pngs-15:\\drawable-mdpi\\bg_home_curve.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-merged_res-20:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

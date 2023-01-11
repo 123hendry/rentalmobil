@@ -1,0 +1,161 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.azhar.rentalmobil"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:6:5-83:19
+12        android:allowBackup="true"
+12-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-3\ce138d442b8002061c5883044e1b541d\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@drawable/ic_mobil_home"
+15-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:8:9-47
+16        android:label="@string/app_name"
+16-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:9:9-41
+17        android:roundIcon="@drawable/ic_mobil_home"
+17-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:10:9-52
+18        android:supportsRtl="true"
+18-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:11:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:12:9-40
+21        <activity
+21-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:14:9-20:20
+22            android:name="com.azhar.rentalmobil.activity.MainOwner"
+22-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:15:13-47
+23            android:exported="false" >
+23-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:16:13-37
+24            <meta-data
+24-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:17:13-19:36
+25                android:name="android.app.lib_name"
+25-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:18:17-52
+26                android:value="" />
+26-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:19:17-33
+27        </activity>
+28        <activity
+28-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:21:9-27:20
+29            android:name="com.azhar.rentalmobil.activity.MutliUser"
+29-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:22:13-47
+30            android:exported="false" >
+30-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:23:13-37
+31            <meta-data
+31-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:17:13-19:36
+32                android:name="android.app.lib_name"
+32-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:18:17-52
+33                android:value="" />
+33-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:19:17-33
+34        </activity>
+35        <activity
+35-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:28:9-40:20
+36            android:name="com.azhar.rentalmobil.activity.BerandaL"
+36-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:29:13-46
+37            android:exported="true" >
+37-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:30:13-36
+38            <intent-filter>
+38-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:31:13-35:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:32:17-69
+39-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:32:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:34:17-77
+41-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:34:27-74
+42            </intent-filter>
+43
+44            <meta-data
+44-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:17:13-19:36
+45                android:name="android.app.lib_name"
+45-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:18:17-52
+46                android:value="" />
+46-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:19:17-33
+47        </activity>
+48        <activity
+48-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:41:9-47:20
+49            android:name="com.azhar.rentalmobil.activity.MainActivity"
+49-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:42:13-50
+50            android:exported="false" >
+50-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:43:13-37
+51            <meta-data
+51-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:17:13-19:36
+52                android:name="android.app.lib_name"
+52-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:18:17-52
+53                android:value="" />
+53-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:19:17-33
+54        </activity>
+55        <activity
+55-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:48:9-54:20
+56            android:name="com.azhar.rentalmobil.activity.DaftarMobilActivity"
+56-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:49:13-57
+57            android:exported="false" >
+57-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:50:13-37
+58            <meta-data
+58-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:17:13-19:36
+59                android:name="android.app.lib_name"
+59-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:18:17-52
+60                android:value="" />
+60-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:19:17-33
+61        </activity>
+62        <activity
+62-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:55:9-61:20
+63            android:name="com.azhar.rentalmobil.activity.PenyewaActivity"
+63-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:56:13-53
+64            android:exported="false" >
+64-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:57:13-37
+65            <meta-data
+65-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:17:13-19:36
+66                android:name="android.app.lib_name"
+66-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:18:17-52
+67                android:value="" />
+67-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:19:17-33
+68        </activity>
+69        <activity
+69-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:62:9-68:20
+70            android:name="com.azhar.rentalmobil.activity.SewaMobilActivity"
+70-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:63:13-55
+71            android:exported="false" >
+71-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:64:13-37
+72            <meta-data
+72-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:17:13-19:36
+73                android:name="android.app.lib_name"
+73-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:18:17-52
+74                android:value="" />
+74-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:19:17-33
+75        </activity>
+76        <activity
+76-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:69:9-75:20
+77            android:name="com.azhar.rentalmobil.activity.DetailMobilActivity"
+77-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:70:13-57
+78            android:exported="false" >
+78-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:71:13-37
+79            <meta-data
+79-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:17:13-19:36
+80                android:name="android.app.lib_name"
+80-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:18:17-52
+81                android:value="" />
+81-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:19:17-33
+82        </activity>
+83        <activity
+83-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:76:9-82:20
+84            android:name="com.azhar.rentalmobil.activity.DetailPenyewaActivity"
+84-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:77:13-59
+85            android:exported="false" >
+85-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:78:13-37
+86            <meta-data
+86-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:17:13-19:36
+87                android:name="android.app.lib_name"
+87-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:18:17-52
+88                android:value="" />
+88-->C:\Users\ASUS\AndroidStudioProjects\ProjectAkhir\app\src\main\AndroidManifest.xml:19:17-33
+89        </activity>
+90    </application>
+91
+92</manifest>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.azhar.rentalmobil.app-mergeDebugResources-19:/layout/activity_sewa.xml",
+        "source": "com.azhar.rentalmobil.app-main-22:/layout/activity_sewa.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-mergeDebugResources-19:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-mergeDebugResources-19:\\layout\\activity_sewa.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_sewa.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-mergeDebugResources-19:\\layout\\activity_detail_mobil.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_detail_mobil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-mergeDebugResources-19:\\layout\\activity_mobil.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_mobil.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-mergeDebugResources-19:\\layout\\activity_main_owner.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_main_owner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-mergeDebugResources-19:\\layout\\activity_detail_penyewa.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_detail_penyewa.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-mergeDebugResources-19:\\layout\\activity_beranda_l.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_beranda_l.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-mergeDebugResources-19:\\layout\\activity_mutli_user.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_mutli_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-mergeDebugResources-19:\\layout\\activity_penyewa.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.azhar.rentalmobil.app-main-22:\\layout\\activity_penyewa.xml"
+    }
+]

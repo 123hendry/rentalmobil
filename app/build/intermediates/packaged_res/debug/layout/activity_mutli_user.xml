@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <FrameLayout
+        android:id="@+id/flMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_home_wave"
+        android:fitsSystemWindows="true">
+
+        <RelativeLayout
+            android:id="@+id/rlAppName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start|center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="15dp"
+                android:text="@string/app_name"
+                android:textColor="@android:color/white"
+                android:textSize="20sp" />
+
+        </RelativeLayout>
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cvDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end|center"
+            android:layout_marginEnd="-20dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="5dp">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/imgDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:src="@drawable/ic_date" />
+
+                <TextView
+                    android:id="@+id/tvDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="25dp"
+                    android:layout_toEndOf="@id/imgDate"
+                    android:text="Minggu, 20 Oktober 2020"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="12sp" />
+
+            </RelativeLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/tvMainSalam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/flMain"
+        android:elevation="5dp"
+        android:gravity="center"
+        android:text="Selamat Pagi"
+        android:textColor="@android:color/white"
+        android:textSize="14sp" />
+
+    <LinearLayout
+        android:id="@+id/llCurved"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@+id/flMain"
+        android:background="@drawable/bg_home_curve"
+        android:orientation="horizontal" />
+
+    <LinearLayout
+        android:id="@+id/tx1"
+        android:layout_width="match_parent"
+        android:layout_height="200px"
+        android:layout_below="@+id/llCurved"
+        android:clipToPadding="false"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="28dp"
+            android:gravity="center"
+            android:text="Login Segabai :"
+            android:textColor="@color/colorPrimary"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1200px"
+        android:layout_below="@+id/tx1"
+        android:clipToPadding="false"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="190dp"
+            android:layout_margin="10dp"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground">
+
+            <LinearLayout
+                android:layout_width="150dp"
+                android:layout_height="190dp"
+                android:layout_gravity="center"
+                android:background="#5AA8E3"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="125dp"
+                    android:layout_height="115dp"
+                    android:layout_marginTop="10dp"
+                    android:padding="2dp"
+                    android:src="@drawable/owner" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="Owner/Perusahaan"
+                    android:textColor="#000"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="100dp"
+                    android:layout_height="1px"
+                    android:layout_marginTop="3dp"
+                    android:background="@android:color/holo_green_light" />
+
+                <Button
+                    android:id="@+id/btn_info_mobil"
+                    android:layout_width="125dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Masuk"
+                    app:backgroundTint="#4CAF50" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!--Tombol 2-->
+        <androidx.cardview.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="190dp"
+            android:layout_margin="10dp"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground">
+
+            <LinearLayout
+                android:layout_width="150dp"
+                android:layout_height="190dp"
+                android:layout_gravity="center"
+                android:background="#7EEFE5"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="125dp"
+                    android:layout_height="115dp"
+                    android:layout_marginTop="10dp"
+                    android:padding="2dp"
+                    android:src="@drawable/penumpang" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:text="Penumpang"
+                    android:textColor="#000"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="100dp"
+                    android:layout_height="1px"
+                    android:layout_marginTop="3dp"
+                    android:background="@android:color/holo_green_light" />
+
+                <Button
+                    android:id="@+id/tambahPenyewa"
+                    android:layout_width="125dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:padding="2dp"
+                    android:text="Masuk"
+                    app:backgroundTint="#4CAF50" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</RelativeLayout>

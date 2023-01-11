@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#634E8A</color>
+    <color name="colorPrimary">#634E8A</color>
+    <color name="colorPrimaryDark">#634E8A</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="alamat">Alamat <font color="red">(*)</font></string>
+    <string name="app_name">Rental Mobil</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="lama_sewa">Lama Sewa <font color="red">(*)</font></string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="merk_mobil">Merk Mobil <font color="red">(*)</font></string>
+    <string name="nama_penyewa">Nama Penyewa <font color="red">(*)</font></string>
+    <string name="no_telp_hp">No. Telp/HP <font color="red">(*)</font></string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="welcome">"Welcome !"</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
